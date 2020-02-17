@@ -166,7 +166,7 @@ table tr:nth-child(3) td:nth-child(1) {
     margin: 0 auto;
 }
 
-#shadowHeader {
+#showHeader {
     font-variant: small-caps;
     color: white;
     width: 120px;
@@ -212,7 +212,7 @@ table tr:nth-child(3) td:nth-child(1) {
 #btnStart {
     cursor: pointer;
     font-family: Tahoma;
-    font-size: 1cm;
+    font-size: 1em;
     font-weight: bold;
     color: #fff;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
